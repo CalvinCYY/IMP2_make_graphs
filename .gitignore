@@ -1,1 +1,4 @@
 __pycache__/
+logs/*
+graphs/*.png
+.DS_Store
